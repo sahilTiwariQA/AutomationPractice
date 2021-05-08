@@ -8,7 +8,6 @@ public interface HappyPath_Purchase2ItemsElements {
  String userPassword = "BJSSTest";
  String SubmitLogin = "//*[@id=\"SubmitLogin\"]";
 
-
  String dressesLink = "//*[@id=\"block_top_menu\"]/ul/li[2]/a";
  String dress1Price = "//*[@id=\"center_column\"]/ul/li[2]/div/div[2]/div[1]/span";
  String dress2Price = "//*[@id=\"center_column\"]/ul/li[3]/div/div[2]/div[1]/span[1]";
